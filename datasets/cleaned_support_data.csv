@@ -1,0 +1,6 @@
+ticket_id,user_email,category,status,created_date,resolution_time_hours
+1,user1@email.com,Account Access,Closed,2026-01-03,2
+2,user2@email.com,Unknown,Open,2026-01-04,
+3,user3@email.com,Billing,Closed,2026-01-05,5
+4,user4@email.com,Technical Support,Pending,2026-01-06,12
+5,user5@email.com,Security,Closed,2026-01-07,1
